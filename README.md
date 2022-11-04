@@ -44,5 +44,11 @@ The following website is deployed using github pages and hosted in Azure static 
 
 <img width="937" alt="image" src="https://user-images.githubusercontent.com/113195856/198948598-d0b34d4f-782f-4bb8-853a-f3d2eb3df450.png">
 
+<h3>Custom domain</h3>
+The above website domain is auto generated and the custom domain given by the azure service is shown below,
+![image](https://user-images.githubusercontent.com/113195856/199993649-7a90b726-d90f-407d-bacd-de07eac5bb6c.png)
+
+I used <strong>Azure DNS</strong> and validated another custom domain but the student account is eligible for only 2 custom domains per app so I was fixated for creation of only 1 domain name.
+
 The link for my website is 👉👉👉https://white-coast-0c5aa1e00.2.azurestaticapps.net/  <br>
 Check out my website and do star the repository if you like it... 😁😁
